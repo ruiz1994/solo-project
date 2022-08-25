@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    background-size: cover;  
+}
+
+img {
+    width: 200px;
+    padding-bottom: 5px;
+    border-radius: 50%;
+}
+
+p {
+    width: 300px;
+}
+
+.hero {
+    background-image: url("images/sacramento.webp");
+    padding-top: 10px;
+    padding-bottom: 350px;
+    color: #F3E9DC;
+    text-align: center;
+}
+
+.activities {
+    display: flex;
+    background-color: aqua;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #F3E9DC;
+    color: #4D5061;
+    font-family: 'Signika', sans-serif;
+    ;
+}
+
+.tour-guide {
+    margin: 60px 450px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #628395;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 4px solid #C1B4AE;
+}
+
+.guide-info {
+    font-family: 'Signika', sans-serif;
+    color: #B8D8BA;
+}
+
+
+#title {
+    background: #1D624D;
+    margin: 10px 586px;
+    padding: 5px 0;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+#invite {
+    background: #1D624D;
+    margin: 10px 270px;
+    padding: 5px 0;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 21px;
+}
+
+#heading {
+    margin: 0;
+    text-align: center;
+    background-color: #F3E9DC;
+    padding: 30px 0 40px 0;
+    color: #4D5061;
+    font-family: sans-serif;
+} 
+
+#guide-img {
+    border-radius: 0;
+    width: 175px;
+}
+
